@@ -1,0 +1,9 @@
+Volumes>Nav Mesh Bounds Volume
+*Spread these bounds to where you would like to allow cubes to spawn and chase you*
+
+
+Basic>Box Trigger
+*spawning location
+
+Blueprints(top not our folder)> Open Level Blueprint
+*Drag Trigger Box over to Level Blueprint
